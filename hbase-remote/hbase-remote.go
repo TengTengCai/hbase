@@ -7,7 +7,7 @@
 package main
 
 import (
-	"hbase"
+	"github.com/TengTengCai/hbase"
 	"context"
 	"flag"
 	"fmt"
